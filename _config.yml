@@ -1,4 +1,4 @@
-baseurl: /jekyll_demo
+baseurl: /my_blog_demo
 	|-- _config.yml
 	|-- _layouts
 	|	|-- default.html
